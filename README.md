@@ -14,6 +14,10 @@ To analyze billionaire statistics dataset using various data science techniques.
    
 ## CODE AND OUTPUT
 ```
+Name: Barath S
+Reg no: 212222230018
+```
+```
 import pandas as pd
 df=pd.read_csv('/content/Billionaires_Statistics_Dataset.csv')
 df
